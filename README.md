@@ -4,7 +4,7 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/potter_parithi?label=follow&style=social)
-[![Linkedin: parithi]([https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parithi-mohammed-akthar-a90932210))](https://www.linkedin.com/in/anmol-p-singh/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
@@ -67,8 +67,8 @@ PyCharm                  5 hrs 4 mins        ███████░░░░�
 Atom                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
 
 💻 Operating Systems: 
-Windows                  17 hrs 5 mins       █████████████████████████   100.0%
-
+Windows                  99 hrs 24 mins      █████████████████████████   50.0%
+linux                    99 hrs 24 mins      █████████████████████████   50.0%   
 ```
 <!--END_SECTION:waka-->
 
